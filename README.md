@@ -34,7 +34,8 @@ This is a machine learning-based web app that predicts the **risk of heart disea
 
 ## 📸 Demo
 
-![ROC Curve](roc_curve_comparison.png)
+![Demo](/demo/Demo-1.png)
+![Demo](/demo/Demo-2.png)
 
 ## 🙋‍♀️ Author
 
