@@ -80,7 +80,7 @@ if st.button("Predict"):
 st.markdown("---")
 st.markdown(
     """
-    Made with ❤️ by [Nishu Mehta](https://github.com/NishuMehta) · 
+    Made by [Nishu Mehta](https://github.com/NishuMehta) · 
       
     📂 [Go to Project](https://github.com/NishuMehta/Heart-Disease-Prediction)
     """,
