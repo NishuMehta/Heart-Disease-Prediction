@@ -27,7 +27,7 @@ This tool uses a machine learning model trained on real patient data to predict 
 st.subheader("Enter patient details to check the risk of heart disease.")
 
 # Load model
-model = joblib.load("../models/model.pkl")
+model = joblib.load("app/model.pkl")
 
 # Input fields
 col1, col2 = st.columns(2)
