@@ -78,11 +78,4 @@ if st.button("Predict"):
 
 # Footer
 st.markdown("---")
-st.markdown(
-    """
-    Made by [Nishu Mehta](https://github.com/NishuMehta) · 
-      
-    📂 [Go to Project](https://github.com/NishuMehta/Heart-Disease-Prediction)
-    """,
-    unsafe_allow_html=True
-)
+st.markdown("Built by [Nishu Mehta](https://github.com/NishuMehta) | Powered by Streamlit 💻")
