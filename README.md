@@ -3,7 +3,7 @@
 This is a machine learning-based web app that predicts the **risk of heart disease** based on clinical parameters using a trained ML model.
 
 
-## 🚀 Live App
+## Live App
 [🔗 Click here to try the app](https://heart-disease-prediction-nishu.streamlit.app/)  
 
 ![](/images/Demo_1.png)
